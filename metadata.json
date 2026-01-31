@@ -1,0 +1,5 @@
+{
+  "name": "Chamada Simples",
+  "description": "Aplicativo de gestão escolar offline para controle de frequência de alunos, com relatórios em PDF e exportação de dados.",
+  "requestFramePermissions": []
+}
